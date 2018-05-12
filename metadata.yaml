@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '39239'
     url: http://www.gutenberg.org/2009/agents/39239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38086#The-Social-Evolution-of-the-Argentine-Republic
 gutenberg_issued: '2011-11-22'
 gutenberg_type: Text
 identifiers:
