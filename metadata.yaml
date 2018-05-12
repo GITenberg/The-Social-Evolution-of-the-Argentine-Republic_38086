@@ -1,0 +1,39 @@
+_repo: The-Social-Evolution-of-the-Argentine-Republic_38086
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Register, Layton B. (Layton Bartol)
+    alias: Register, Layton Bartol
+    birthdate: 1882
+    gutenberg_agent_id: '35994'
+    url: http://www.gutenberg.org/2009/agents/35994
+  - agent_name: Gil, Enrique
+    birthdate: 1890
+    gutenberg_agent_id: '42336'
+    url: http://www.gutenberg.org/2009/agents/42336
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quesada, Ernesto
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '39239'
+    url: http://www.gutenberg.org/2009/agents/39239
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Civilization'
+- !lcc 'HN'
+- !lcsh 'Argentina -- Social conditions'
+- !lcc 'F2801'
+title: The Social Evolution of the Argentine Republic
+url: http://www.gutenberg.org/ebooks/38086
